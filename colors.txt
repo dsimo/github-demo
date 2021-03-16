@@ -7,3 +7,4 @@ violet
 pink
 white
 Gray
+Beige
